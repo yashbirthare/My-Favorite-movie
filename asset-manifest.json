@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yashbirthare.github.io/csb-d6kit/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yashbirthare.github.io/csb-d6kit/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://yashbirthare.github.io/csb-d6kit/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://yashbirthare.github.io/csb-d6kit/static/js/runtime-main.f141c3dd.js",
+    "runtime-main.js.map": "https://yashbirthare.github.io/csb-d6kit/static/js/runtime-main.f141c3dd.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://yashbirthare.github.io/csb-d6kit/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://yashbirthare.github.io/csb-d6kit/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://yashbirthare.github.io/csb-d6kit/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yashbirthare.github.io/csb-d6kit/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://yashbirthare.github.io/csb-d6kit/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f141c3dd.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
